@@ -22,3 +22,9 @@ pip install gurobipy
 
 
 pip install numpy
+
+
+To run:
+
+
+python3 <name of the file>
